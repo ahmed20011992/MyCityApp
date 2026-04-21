@@ -20,7 +20,7 @@ class EventViewModel {
         self.event = event
     }
     
-    var formattedDate: String? { // värför har jag den alltid och vad den gör här ??
+    var formattedDate: String? { 
         guard let newDate = event.usefulDateFormat else {
             return nil
         }
