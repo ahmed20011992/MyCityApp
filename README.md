@@ -68,7 +68,7 @@ This app solves that by:
 ## 🛠️ Tech Stack
 
 - Swift
-- SwiftUI / UIKit (based on implementation)
+- SwiftUI 
 - SwiftData (local persistence)
 - UserNotifications framework
 - Xcode
@@ -76,4 +76,3 @@ This app solves that by:
 
 ---
 
-## 📁 Project Structure
